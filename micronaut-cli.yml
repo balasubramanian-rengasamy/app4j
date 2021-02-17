@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.prime
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, data, data-jpa, gradle, hibernate-validator, http-client, jdbc-hikari, junit, kotlin, kotlin-application, log4j2, mariadb, openapi, readme, security, security-annotations, shade, testcontainers, undertow-server, yaml]
